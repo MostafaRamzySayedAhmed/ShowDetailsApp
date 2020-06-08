@@ -1,0 +1,177 @@
+/* Starting The General Rules */
+
+body
+{
+	padding: 0px;
+	margin: 0px;
+}
+
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9
+{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.message-error
+{
+	position: absolute;
+	top: 10px;
+}
+
+.message-redirect
+{
+	position: relative;
+	top: 35px;
+}
+
+.heading
+{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.upper-bar
+{
+    margin: 10px 0px;
+}
+
+/* Starting The Signup Rules */
+
+.signup
+{
+    margin: 139px 150px;
+}
+
+.signup input
+{
+    margin-top: 25px;
+}
+
+.signup-bg
+{
+    background-image: url("../images/items_signup.png");
+    background-size: cover;
+}
+
+.signup input[type=submit]
+{
+	font-weight: bold;
+	font-size: 20px;
+}
+
+/* Starting The Signup Rules */
+
+.login
+{
+    margin-top: 250px;
+    margin-bottom: 230px;
+}
+
+.login input
+{
+    margin-top: 10px;
+}
+
+.login input[type=submit]
+{
+	font-weight: bold;
+	font-size: 20px;
+    margin-top: 25px;
+}
+
+.login-bg
+{
+    background-image: url("../images/items_login.png");
+    background-size: cover;
+}
+
+/* Starting The Items Rules */
+
+.item
+{
+    background-color: #373737;
+    max-width: 500px;
+    max-height: 500px;
+    margin-right: 35px;
+    margin-bottom: 20px;
+    display: inline-block;
+    border-radius: 5px;
+    color: #DDD;
+}
+
+.item .name
+{
+    font-weight: bold;
+    display: block;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.item .description
+{
+    margin-top: 5px;
+    text-align: center;
+    padding: 0px 5px;
+}
+.item .country
+{
+    display: block;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.item .price
+{
+    display: block;
+    margin-top: 5px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.item .price .dollar
+{
+    font-size: 16px;
+}
+
+.item .btn
+{
+    display: block;
+    margin-top: 10px;
+}
+
+/* Staring The Fotter Rules */
+
+.list
+{
+    background-color: #000;
+    padding-bottom: 2px;
+    margin-top: 18px;
+}
+
+.list ul
+{
+    list-style-type: none;
+}
+
+.list ul li
+{
+    display: inline;
+}
+
+.list ul li a
+{
+    color: #DDD;
+    text-decoration-line: none;
+    margin-bottom: 5px;
+}
+
+.pop
+{
+    margin-top: 20px;
+    margin-right: 45px;
+    font-size: 18px;
+}
+
+.list p
+{
+    margin-top: 15px;
+}
