@@ -13,6 +13,7 @@ Redirected to Another Page.
 * CSS
 * CSS3
 * Java Script
+* AJAX
 * jQuery
 * Bootstrap
 * PHP
