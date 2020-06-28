@@ -28,7 +28,7 @@ include "config.php";
 
 if(isset($_SESSION['Username']))
    {
-	header('location: index.php');
+	header('location: dashboard.php');
 	exit();
    }
 
