@@ -25,7 +25,6 @@ include "includes/templates/header.php";
 
 include "config.php";
 
-
 if(isset($_SESSION['Username']))
    {
 	header('location: dashboard.php');
