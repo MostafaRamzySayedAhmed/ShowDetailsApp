@@ -18,3 +18,4 @@ It is a Responsive Real Time Web App for Showing Details about Items without the
 * PHP
 * PHP (MySQLi)
 * MySQL DB
+.
