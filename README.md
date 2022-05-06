@@ -1,5 +1,5 @@
 # Show Details App
-It's a Fully Responsive Web App for Showing Details about Items without The Need of Reloading any of it's Pages or Being Redirected to Another Page.
+It's a Fully Responsive Web App for Showing Details about Items without The Need of Reloading any of it's Pages or Being Redirected to Another Page
 
 # The Features
 * The Responsive, Simple & Classic Design.
