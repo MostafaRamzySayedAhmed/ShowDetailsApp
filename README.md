@@ -17,4 +17,4 @@ It's a Fully Responsive Web App for Showing Details about Items without The Need
 * Bootstrap
 * PHP
 * PHP (MySQLi)
-* MySQL DB
+* MySQL
