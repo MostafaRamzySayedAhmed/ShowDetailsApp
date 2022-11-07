@@ -1,5 +1,5 @@
 # Show Details App
-It's a Fully Responsive Web App
+It's a Fully Responsive Web App.
 
 # The Features
 * The Responsive, Simple & Classic Design.
